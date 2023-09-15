@@ -1,0 +1,2 @@
+# cli
+BrickMMO CLI tool
